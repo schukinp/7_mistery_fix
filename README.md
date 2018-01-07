@@ -13,7 +13,7 @@
 * None, None если дискриминант < 0
 
 Пример работы фукнции:
-```
+```python
 from quadratic_equation import get_roots
 
 get_roots(1, -2, 1)
